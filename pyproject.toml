@@ -1,7 +1,7 @@
 [project]
 name = "backend-workshop"
 version = "0.1.0"
-description = "Add your description here"
+description = "Interactive GDGoC FastAPI workshop: building RESTful CRUD APIs with Pydantic and APIRouter"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
