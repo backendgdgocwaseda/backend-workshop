@@ -36,7 +36,7 @@
 
 ## Setup
 
-Clone the repository and install the exact locked dependencies from `uv.lock`:
+Clone the repository inside your desired directory and install the exact locked dependencies from `uv.lock`:
 
 ```bash
 git clone https://github.com/backendgdgocwaseda/backend-workshop.git
